@@ -1,1 +1,3 @@
 rootProject.name = 'type-safe-builder-example'
+
+include 'common-user'
