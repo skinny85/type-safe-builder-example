@@ -3,6 +3,10 @@ package com.endoflineblog.type_safe_builder.classic;
 import com.endoflineblog.type_safe_builder.User;
 
 public class UserBuilder {
+    public static UserBuilder user() {
+        return new UserBuilder();
+    }
+
     private String email, username, firstName, lastName, displayName;
 
     public UserBuilder email(String email) {
