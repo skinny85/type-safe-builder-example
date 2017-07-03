@@ -2,4 +2,5 @@ rootProject.name = 'type-safe-builder-example'
 
 include '01-classic-user-builder',
         '02-type-safe-agreement-version-builder',
-        '03-type-safe-user-builder-optional-props'
+        '03-type-safe-user-builder-optional-props',
+        '04-jilt-builders'

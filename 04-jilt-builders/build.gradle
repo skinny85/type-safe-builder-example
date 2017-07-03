@@ -1,0 +1,8 @@
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compileOnly 'org.jilt:jilt:1.0'
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.16.16'
+}
