@@ -1,5 +1,5 @@
 import com.endoflineblog.type_safe_builder.User;
-import com.endoflineblog.type_safe_builder.classic.UserBuilder;
+import com.endoflineblog.type_safe_builder.UserBuilder;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

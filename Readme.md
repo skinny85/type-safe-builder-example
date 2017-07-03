@@ -17,3 +17,5 @@ They are numbered in the order they appear in the article:
     re-implements all of the previous examples, but this time using the
     [Jilt library](https://github.com/skinny85/jilt)
     instead of writing the Builders by hand.
+
+All of this code is in the [Public Domain](https://en.wikipedia.org/wiki/Public_domain).

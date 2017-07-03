@@ -1,6 +1,4 @@
-package com.endoflineblog.type_safe_builder.classic;
-
-import com.endoflineblog.type_safe_builder.User;
+package com.endoflineblog.type_safe_builder;
 
 public class UserBuilder {
     public static UserBuilder user() {
