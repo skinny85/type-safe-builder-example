@@ -3,6 +3,6 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'org.jilt:jilt:1.0'
+    compileOnly 'org.jilt:jilt:1.1'
     compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.16.16'
 }
